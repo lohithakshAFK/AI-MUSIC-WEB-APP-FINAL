@@ -1,0 +1,44 @@
+body{
+    background-size:cover;
+}
+
+.head{
+    margin:0;
+    background-color: black;
+    color:white;
+}
+
+.head img{
+    height:90px;
+    width:100px;
+}
+
+#song_name{
+    background-color: black;
+    color:white;
+    box-shadow:5px 5px 5px white;
+    width:20%;
+    padding:20px;
+    border-radius:75px;
+}
+
+#song_name:hover{
+    background-color: white;
+    color:black;
+    box-shadow:5px 5px 5px black;
+}
+
+.footer{
+    bottom:0;
+    line-height: 3;
+    position: fixed;
+    background-color: grey;
+    color:white;
+    width:100%;
+    text-align:center;
+}
+
+canvas{
+    margin-top:170px;
+    border-radius:20px;
+}
