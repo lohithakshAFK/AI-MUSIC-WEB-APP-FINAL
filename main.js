@@ -14,8 +14,8 @@ rightWristScore = 0;
 song2_status = "";
 
 function preload(){
-    song1 = loadSound("centuries2.wav");
-    song2 = loadSound("believer2.wav");
+    song2 = loadSound("centuries2.wav");
+    song1 = loadSound("believer2.wav");
 }
 
 function setup(){
